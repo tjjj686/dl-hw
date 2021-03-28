@@ -1,5 +1,5 @@
 # HW for CSE599 deep learning 
-## instructor:Joseph Redmon
+*instructor:Joseph Redmon*
 
 This repo contain all the hw.
 
