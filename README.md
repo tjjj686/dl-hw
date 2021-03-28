@@ -1,9 +1,7 @@
-# UW Net #
+# UW CSE599 Deep Learning #
 
-This is a work in progress.....
+This repo contain all the homeworks.
+hw0: Fully Connected Network
+hw1: Convolutional Networks
+hw2: Batch Normalization and RNNs
 
-but I'm working on it!
-
-- [Homework 0](./hw0.md)
-- [Homework 1](./hw1.md)
-- [Homework 2](./hw2.md)
