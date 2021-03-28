@@ -1,10 +1,9 @@
-# HW for CSE599 deep learning 
-*instructor:Joseph Redmon*
+# UW Net #
 
-This repo contain all the homeworks.
+This is a work in progress.....
 
-hw0: Fully Connected Network
+but I'm working on it!
 
-hw1:Convolutional Networks
-
-hw2: Batch Normalization and RNNs
+- [Homework 0](./hw0.md)
+- [Homework 1](./hw1.md)
+- [Homework 2](./hw2.md)
